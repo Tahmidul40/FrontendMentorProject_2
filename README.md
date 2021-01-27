@@ -6,7 +6,6 @@ I'm taking this challenge for improving my front-end coding skills by building r
 
 ## Challenge - Profile card component
 
-![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 My challenge is to build out this pricing component and get it looking as close to the design as possible.
 
 ## My users should be able to:
